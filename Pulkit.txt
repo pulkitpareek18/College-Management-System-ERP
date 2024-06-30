@@ -1,0 +1,15 @@
+This is a major project for all of us. Well get to learn about many things from development to production, software testing etc.
+Let's start this project, we were procastinating since 2 months now back to work.
+After completion of this project we all will be having these skills in common:
+HTML, CSS ,JS
+Tailwind, Bootstrap
+React.js, NEXT.js, Node.js, API Development, Monogo DB, MySQL
+Software Deployment
+React Native, Android Development
+PWA - Progressive Web App
+And many more in the journey
+But one thing will be carried out throughout the journey:
+"4 Bhai Chaaron Tabahi"
+Jai Shri Ram
+
+
